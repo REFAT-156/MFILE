@@ -16,7 +16,7 @@ bit = platform.architecture()[0]
  
 if bit == "64bit":
  
-        from RDUMP64 import __login
+        from RDM64 import __login
  
         __login()
  
@@ -24,7 +24,7 @@ if bit == "64bit":
  
 elif bit == "32bit":
  
-        from RDUMP32 import __login
+        from RDM32 import __login
  
  
         __login()
