@@ -55,7 +55,7 @@ git clone https://github.com/REFAT-156/MFILE.git
 ## Tools Run :
 ```
 ls && cd MFILE && ls
-python MFILE.py
+python DUMPALL.py
 ```
 
 *   USERNAME : NO USERNAME ❤️ ENJOY 👊
