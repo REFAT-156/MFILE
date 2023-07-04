@@ -8,7 +8,7 @@
 <p align="center">
 
 ## Link Download Termux 🤍
-👉🏻 [Click Here](https://f-droid.org/repo/com.termux_118.apk) 
+👉🏻 [Click Here](https://f-droid.org/repo/com.termux_118.apk) 👈🏻
 
 <img src="https://raw.githubusercontent.com/REFAT-156/ServerOfRefat/main/IMG_20230704_131514.jpg" />
 
